@@ -53,9 +53,20 @@ opacity: 0.9;
 
 .person-name{
 font-size: 2rem;
-color: aliceblue;
+color: beige;
 background-color: rgb(243, 128, 243);    
 margin: 5rem;
+border-radius: 2px;
+letter-spacing: 0.3rem;
 }
 
-
+.section-1-btn{
+font-size: 1.7rem;
+font-weight: 700;
+color: black;
+background-color: beige;
+border: 0.3rem solid rgb(252, 252, 136);
+padding: 0.5rem 1rem;
+text-transform: uppercase;
+letter-spacing: 0.3rem;
+}
