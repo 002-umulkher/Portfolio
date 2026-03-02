@@ -29,12 +29,33 @@ align-items: center;
 }
 
 .section-1-heading{
-background-color: aqua;
+background-color: beige;
 margin-bottom: 5rem;
 padding: 0.3rem;
 text-transform: uppercase;
-color: aliceblue;
+color: rgb(245, 14, 218);
 font-weight: 600;
-
+letter-spacing:1rem;
+border-bottom: 1.1rem solid whitesmoke;
+text-shadow: 0.2rem 0.2rem 1rem;
+border-radius: 3px;
 }
+
+.person-img{
+width: 25rem;
+height: 25rem;
+border-radius: 50%;
+border: 0.7rem dotted rgb(255, 0, 217) ;
+object-fit: cover;
+padding: 1rem;
+opacity: 0.9;
+}
+
+.person-name{
+font-size: 2rem;
+color: aliceblue;
+background-color: rgb(243, 128, 243);    
+margin: 5rem;
+}
+
 
