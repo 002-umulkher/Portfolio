@@ -83,17 +83,16 @@ align-items: center;
 }
 
 .navbar-link{
-font-size: 1.7rem;
+font-size: 1.6rem;
 font-weight: 600;
 color: #555;
-margin: 0.3rem;
-letter-spacing: 3rem;
+margin: 3rem;
+letter-spacing: 0.1rem;
 text-transform: uppercase;
 
 }
 
-.navbar-link a:hover{
-color: aliceblue;
-text-decoration: underline;
+.navbar-link::before {
+
 
 }
