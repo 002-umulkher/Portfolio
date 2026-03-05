@@ -30,15 +30,16 @@ align-items: center;
 
 .section-1-heading{
 background-color: beige;
-margin-bottom: 5rem;
+margin-bottom: 3rem;
 padding: 0.3rem;
 text-transform: uppercase;
 color: rgb(245, 14, 218);
 font-weight: 600;
-letter-spacing:1rem;
+letter-spacing:2rem;
 border-bottom: 1.1rem solid whitesmoke;
 text-shadow: 0.2rem 0.2rem 1rem;
 border-radius: 3px;
+text-transform: skew(-10deg);
 }
 
 .person-img{
@@ -69,4 +70,10 @@ border: 0.3rem solid rgb(252, 252, 136);
 padding: 0.5rem 1rem;
 text-transform: uppercase;
 letter-spacing: 0.3rem;
+}
+
+.navbar{
+width: 100%;
+height: 4rem;
+background-color: red;
 }
